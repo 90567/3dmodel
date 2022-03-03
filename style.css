@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+}
+.ava {
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius:20px;
+}
+header {
+    background-color: black;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.ah {
+    border: 1px solid black;
+    background-color:  white;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.Top {
+    width: 200px;
+    height: 200px;
+    border-radius:20px;
+    border: 1px solid black;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.ef {
+    width: 250px;
+    height: 250px;
+    border: 1xp solid black;
+    border-radius: 5px;
+}
+.photo {
+    border: 2px solid black;
+    border-radius: 5px;
+}
